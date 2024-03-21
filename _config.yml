@@ -1,11 +1,15 @@
-title: John Doe # your name (or website title) here
+title: Jyothi Dhandi # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+I am UI/UX Designer with an educational background in computer science engineer. 
+I am open to exploring opportunities in UI/UX design related jobs.  
+<br>
+Tools: Figma, Sketch, Photoshop, Canva
+<br><br>
+  <a href="www.linkedin.com/in/nagajyothisri/">View My LinkedIn Profile</a> 
+ <br> 
+  <a href="https://www.behance.net/jyothisri15/">View My LinkedIn Profile</a>
+<br><br>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
