@@ -1,7 +1,7 @@
 ## Portfolio
 
 ---
-[Shopping App](https://www.behance.net/gallery/189225007/Shopping-App)
+[Instacart - Shopping App](https://www.behance.net/gallery/189225007/Shopping-App)
 
 <p style="font-size: 12px"> This e-commerce mobile application provides users with a seamless online shopping experience, allowing them to purchase a wide range of products from anywhere. Our platform is designed to offer effortless navigation through diverse collections, saving users time and effort. Enjoy the convenience of discovering and selecting your desired products with ease, making your online shopping journey enjoyable and efficient. </p>
 
