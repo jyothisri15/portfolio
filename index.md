@@ -3,9 +3,8 @@
 ---
 [Shopping App](https://www.behance.net/gallery/189225007/Shopping-App)
 
-<p style="font-size: 12px"> Analyzed complex data sets in Python, I identified the busiest days and hours, price ranges and the most popular departments for an online grocery store. I also created customer profiles based on features such as brand loyalty, demographic info, order frequency, family status, regions, and other. On the basis of the analysis results, I gave recommendations to the marketing and sales departments regarding the upcoming marketing campaign to improve customer loyalty and boost sales. </p>
+<p style="font-size: 12px"> This e-commerce mobile application provides users with a seamless online shopping experience, allowing them to purchase a wide range of products from anywhere. Our platform is designed to offer effortless navigation through diverse collections, saving users time and effort. Enjoy the convenience of discovering and selecting your desired products with ease, making your online shopping journey enjoyable and efficient. </p>
 
-<p style="font-size: 12px"><b>Analytical techniques:</b> Data Wrangling & Subsetting ,Combining & Exporting Data, Derived New Variables, Grouping Data & Aggregated variables, Data Visualizations in Python. </p>
 <br>
  <img src="images/Shopping.jpg"/>  
 
