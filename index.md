@@ -40,16 +40,8 @@ The reselling app features product listings displaying images, descriptions, and
 <br>
  <img src="images/Frame 1.png"/>
 
----
-<p style="font-size: 12px">
-Contact Me On Email.</p>
-
- [Email](jyothisri15@gmail.com)
-
  
- 
- 
- 
+   
  
  
  
