@@ -39,16 +39,15 @@ The reselling app features product listings displaying images, descriptions, and
 
 <br>
  <img src="images/Frame 1.png"/>
- 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
+<p style="font-size: 12px">
+Contact Me On Email.</p>
+
+ [Email](jyothisri15@gmail.com)
+
+ <br>
+ 
 
 
 
