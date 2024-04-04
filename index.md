@@ -11,7 +11,7 @@
 
 
 ---
-[Instacart - Cooking App]([https://www.behance.net/gallery/188944747/Recipe-App-Case-study])
+[Instacart - Cooking App](https://www.behance.net/gallery/188944747/Recipe-App-Case-study)
 
 <p style="font-size: 12px"> The food recipe app is designed to offer a wide variety of recipes to users, providing quick and easy guidance through step-by-step interactions accompanied by images. 
 Additionally, the app includes clear and informative recipe videos, complete with time-based management. Users can save their favourite recipes on a weekly calendar for convenient meal planning. </p>
