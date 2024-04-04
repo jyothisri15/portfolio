@@ -40,6 +40,72 @@ The reselling app features product listings displaying images, descriptions, and
 <br>
  <img src="images/Frame 1.png"/>
 
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>My Portfolio</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Welcome to my portfolio! I am a beginner web developer eager to showcase my skills.</p>
+    </section>
+    <section id="projects">
+        <h2>Projects</h2>
+     [Instacart - Shopping App](https://www.behance.net/gallery/189225007/Shopping-App)
+
+<p style="font-size: 12px"> This e-commerce mobile application provides users with a seamless online shopping experience, allowing them to purchase a wide range of products from anywhere. Our platform is designed to offer effortless navigation through diverse collections, saving users time and effort. Enjoy the convenience of discovering and selecting your desired products with ease, making your online shopping journey enjoyable and efficient. </p>
+
+<br>
+ <img src="images/Shopping.jpg"/> 
+        <div class="project">
+            <h3>Project 1</h3>
+            <p>Description of Project 1.</p>
+        </div>
+        <div class="project">
+            <h3>Project 2</h3>
+            <p>Description of Project 2.</p>
+        </div>
+    </section>
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>You can reach me at example@example.com</p>
+    </section>
+</body>
+</html>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  CSS (styles.css):
 
 css
