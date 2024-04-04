@@ -40,6 +40,50 @@ The reselling app features product listings displaying images, descriptions, and
 <br>
  <img src="images/Frame 1.png"/>
 
+ CSS (styles.css):
+
+css
+Copy code
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+}
+
+section h2 {
+    color: #333;
+}
+
+.project {
+    margin-bottom: 20px;
+}
+
  
    
  
