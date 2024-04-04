@@ -22,7 +22,7 @@ Additionally, the app includes clear and informative recipe videos, complete wit
 
 
 ---
-[Instacart - Swimming App]((https://www.behance.net/gallery/189227747/Swimming-App))
+[Swimming App](https://www.behance.net/gallery/189227747/Swimming-App)
 
 <p style="font-size: 12px"> SWM is a mobile app. During my CareerFoundry Bootcamp, I developed an app aimed at simplifying the process of finding swimming classes and trainers for users. The application offers real-time information on swimming-related activities. I took charge of designing every aspect to ensure a user-friendly experience, making it easy for everyone to locate and book swimming classes and trainers. </p>
 
@@ -32,7 +32,7 @@ Additionally, the app includes clear and informative recipe videos, complete wit
 
 
 ---
-[Instacart - Re-Selling App]([https://www.behance.net/gallery/188951419/Re-Selling-App])
+[Re-Selling App](https://www.behance.net/gallery/188951419/Re-Selling-App)
 
 <p style="font-size: 12px">
 The reselling app features product listings displaying images, descriptions, and prices, while offering users the ability to browse, search, and contact sellers. Additionally, users can search for similar products based on nearby locations. </p>
